@@ -3,3 +3,9 @@
 def parrot("Squawk!")
   
 end 
+
+def meal_choice(meal = "meat")
+  no_pass = "vegan"
+ meal
+  
+end 
