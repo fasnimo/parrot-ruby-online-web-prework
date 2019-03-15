@@ -3,6 +3,7 @@
 def parrot(bird = "Squawk!")
   pass = "Pretty bird!"
   puts "Squawk!"
+  puts bird
   bird
 end 
 
